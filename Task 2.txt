@@ -1,0 +1,4 @@
+Дан набор из N целых положительных чисел. Для каждого числа вычисляется сумма двух последних цифр в его десятичной записи (для однозначных чисел предпоследняя цифра считается равной нулю). Необходимо определить,какая сумма при этом получается чаще всего. Если таких сумм несколько, необходимо вывести наибольшую из них.
+------------------------------------------------------------
+A set of N positive integers is given. For each number, the sum of the last two digits in its decimal notation is calculated (for single digits, the penultimate digit is considered zero). You need to define,
+what is the amount that this happens often. If there are several such amounts, you must output the largest of them.
